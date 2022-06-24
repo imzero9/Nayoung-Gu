@@ -1,6 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontAlignY=35&animation=fadeIn&fontSize=40)
   <h2 align="center">👋 Hi, I'm Nayoung 👋 </h3>
   <p align="center"> 
     I worked at EdTech Company for a year and a half, <br>
