@@ -1,13 +1,10 @@
 <div align="center">
   
-  <h2 align="center">👋 Hi, I'm Nayoung 👋 </h3>
+  <h2 align="center">👋 Hi, I'm Nayoung 👋 </h2>
   <p align="center"> 
-    I worked at EdTech Company for a year and a half, <br>
-    and now I'm studying to become a front-end engineer. 🌱<br>
-    <h4 align="center">• • •</h3>
     <a href="https://velog.io/@mooongs"><img src="https://img.shields.io/badge/Tech%20Blog-1FC392?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>
     <a href="mailto:"nayoung.gu0322@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-                                                                                                                                         <a href="https://www.linkedin.com/in/nayoung-gu-3b6072175/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nayoung-gu-3b6072175/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 
 
 <br>
